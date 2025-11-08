@@ -1,24 +1,54 @@
 {
-    "contacts":[
-        {
-            "id":"1",
-            "name":"Nikhil",
-            "email":"nikhil@gmail.com",
-            "userid":"1"
-        }
-    ],
-    "users":[
-        {
-           "id":"1",
-            "name":"user1",
-            "email":"user1@gmail.com",
-            "password":"123456" 
-        },
-        {
-           "id":"2",
-            "name":"nikhil",
-            "email":"nikhil@gmail.com",
-            "password":"123" 
-        }
-    ]
+  "contacts": [
+    {
+      "name": "Nikhil",
+      "email": "John@gmail.com",
+      "userid": "1",
+      "id": "1"
+    },
+    {
+      "id": "30f0",
+      "name": "nivya",
+      "email": "nivya@gmail.com",
+      "userid": "1"
+    },
+    {
+      "id": "2dbc",
+      "name": "Rathna-Prabha",
+      "email": "dadMom@gmail.com",
+      "userid": "1"
+    },
+    {
+      "id": "a079",
+      "name": "Thrishya",
+      "email": "Thrishya@gmail.com",
+      "userid": "2"
+    },
+    {
+      "id": "4ac1",
+      "name": "shriya",
+      "email": "shriya@gmail.com",
+      "userid": "2"
+    },
+    {
+      "id": "edf4",
+      "name": "Adi",
+      "email": "Adi@gmail.com",
+      "userid": "2"
+    }
+  ],
+  "users": [
+    {
+      "id": "1",
+      "name": "user1",
+      "email": "user1@gmail.com",
+      "password": "123456"
+    },
+    {
+      "id": "2",
+      "name": "nikhil",
+      "email": "nikhil@gmail.com",
+      "password": "123"
+    }
+  ]
 }
