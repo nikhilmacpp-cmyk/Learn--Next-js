@@ -9,6 +9,10 @@ interface Props {
     location:string;
     date:string;
     time:string;
+    venue:string;
+    mode:string;
+    audiencs:string;
+    agenda:string;
 }
 
 const EventCard = ({title,image,slug,location,date,time}:Props) =>{
